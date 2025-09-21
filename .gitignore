@@ -1,0 +1,23 @@
+# Ignorar entornos virtuales
+venv/
+.venv/
+.env/
+
+# Archivos de caché
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración de IDE
+.vscode/
+*.code-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Otros
+*.log
+*.tmp
+
+# Ignorar imágenes y archivos de datos
+/dataset/sign_language/*
