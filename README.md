@@ -2,6 +2,11 @@
 
 Este proyecto utiliza un conjunto de datos de lenguaje de señas mexicano para entrenar modelos de aprendizaje automático.
 
+## Instalación del dataset
+Colocar el archivo de dataset extraido en `dataset/sign_lenguage/`, en nuestro caso usamos este en COCO JSON
+https://universe.roboflow.com/pmienta/lenguaje-de-senas-mexicano/dataset/1
+
+
 ## Instalación de dependencias
 
 1. Asegúrate de tener Python instalado en tu sistema.
