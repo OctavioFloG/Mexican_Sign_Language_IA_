@@ -21,3 +21,5 @@ Thumbs.db
 
 # Ignorar imágenes y archivos de datos
 /dataset/sign_language/*
+
+/models/*
